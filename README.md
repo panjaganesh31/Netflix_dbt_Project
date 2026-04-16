@@ -69,7 +69,8 @@ FILE_FORMAT = (TYPE = CSV FIELD_OPTIONALLY_ENCLOSED_BY='"' SKIP_HEADER = 1);
 * Define **stages** to pull data from AWS
 * Load data using **Snowflake COPY command**
 
-![AWS to Snowflake](images/AWS_to_Snowflake.PNG)
+![AWS to Snowflake](<img width="1488" height="688" alt="b4S0f" src="https://github.com/user-attachments/assets/3c0b137a-ff30-48bc-a29c-7baa1034fd40" />
+)
 
 ---
 
