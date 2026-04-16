@@ -319,10 +319,9 @@ Check the **DEV schema** to view your staged, transformed, and gold-layer tables
 
 ## 🧑‍💻 Author & Contact
 
-👤 **Fred Kibutu**
-🌐 [Portfolio](https://kibutujr.vercel.app/)
-💼 [LinkedIn](https://www.linkedin.com/in/fred-kibutu/)
-📧 [Email](mailto:kibutujr@gmail.com)
+👤 **Ganesh Panja**
+💼 [LinkedIn](https://www.linkedin.com/in/ganesh-panja31/?skipRedirect=true)
+📧 [Email](mailto:panjaganesh31@gmail.com)
 
 ---
 
