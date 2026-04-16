@@ -245,7 +245,7 @@ Follow these steps to replicate this project locally or in your own environment.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/KibutuJr/Netflix-dbt-project.git
+git clone https://github.com/Ganeshpanja/Netflix-dbt-project.git
 cd Netflix-dbt-project
 ```
 
