@@ -1,6 +1,7 @@
 # 🎬 Netflix Data Analysis End-to-End Project (AWS S3 → Snowflake → dbt)
 
-![AWS to Snowflake](images/AWS_to_Snowflake.PNG)
+![AWS to Snowflake](<img width="1488" height="688" alt="AWS to Snowflake Image" src="https://github.com/user-attachments/assets/be33e9ae-fb86-40ac-9388-f39adddd3633" />
+)
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![DBT](https://img.shields.io/badge/Tool-dbt-FF694B?logo=dbt&logoColor=white)
@@ -44,11 +45,14 @@ It replicates a **real-world Netflix data workflow**, showcasing how to move, tr
 
 ## 🧱 Architecture Diagram
 
-![Snowflake User Creation](images/snowflake_user_creation.PNG)
+![Snowflake User Creation](<img width="1440" height="720" alt="Snowflake User Creation" src="https://github.com/user-attachments/assets/356ebe81-f6f7-45b9-9cee-e5b10f8c2484" />
+)
 ![src_table](images/src_table.PNG)
-![raw_movies_table](images/raw_movies_table.PNG)
+![raw_movies_table](<img width="1488" height="688" alt="Raw Movies Table Image" src="https://github.com/user-attachments/assets/e10064d4-4c21-429a-93db-5c7edb80b3dd" />
+)
 ![insert](images/insert.PNG)
-![views_on_snowflake](images/views_on_snowflake.PNG)
+![views_on_snowflake](<img width="1440" height="720" alt="Views on Snowflake Image" src="https://github.com/user-attachments/assets/8673104b-2e47-4ddc-a179-6929b52089b3" />
+)
 
 ---
 
@@ -203,7 +207,8 @@ dbt docs serve
 
 The **Gold Layer** delivers business-ready analytics and insights.
 
-![analysis](images/analysis.PNG)
+![analysis](<img width="1440" height="720" alt="Analysis Image (Movie Analysis Table" src="https://github.com/user-attachments/assets/927a5d6f-d677-4dfa-8ccb-64772e0de33d" />
+)
 
 ### Analyses Include:
 
